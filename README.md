@@ -1,2 +1,2 @@
-# H-c-javascript-c-b-n
+Học Javascrit cơ bản
 Javascript cơ bản, javascript tutorial,tài liệu javascript
